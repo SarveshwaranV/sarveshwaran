@@ -12,7 +12,7 @@ links.forEach((e) => {
   })
 });
 
-const images = ['prof1.jpg', 'prof2.jpg'];
+const images = ['prof1.jpg', 'prof2.jpg', 'prof3.jpg', 'prof4.jpg'];
 let currentImageIndex = 0;
 const imageElement = document.querySelector('#main .user_img img');
   function flipImageCycle() {
